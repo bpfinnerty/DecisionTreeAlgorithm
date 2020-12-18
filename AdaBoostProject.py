@@ -1,6 +1,6 @@
 #
 # Author: Brian Finnerty
-# file: lab2.py
+# file: AdaBoost.py
 # This program will utilize Decision Trees or Adaboost with decision stumps
 # to distinguish between the language of dutch and english given 15 words
 #
